@@ -1,6 +1,6 @@
 ### Hello my friend! 👋
 
-- 🔭 at the moment I'm working with the dart language using the fantastic flutter!
+- 🔭 At the moment I'm working with the dart language using the fantastic flutter!
 - 🌱 I'm currently learning clean architecture along with modular.
 
 - 📫 How to reach me: call (11) 95439-0011 or email ednacio.ssouza@gmail.com
