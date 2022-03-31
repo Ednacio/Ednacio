@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello my friend! 👋
 
-<!--
-**Ednacio/Ednacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 at the moment I'm working with the dart language using the fantastic flutter!
+- 🌱 I'm currently learning clean architecture along with modular.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: call (11) 95439-0011 or email ednacio.ssouza@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I love fries and bacon in my spare time!
+
+<div>
+  <a href="https://github.com/Ednacio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ednacio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ednacio&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  
+  
+  
+</div>
+  
+  ##
