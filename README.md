@@ -19,15 +19,19 @@
 - 📫 Como me encontrar: [LinkedIn](seu-linkedin) | [Email](mailto:seu-email) | [Telefone](tel:+5511954390011)
 
 ## Estatísticas do GitHub
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=dark"/>
+<div>
+  <a href="https://github.com/Ednacio">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ednacio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ednacio&layout=compact&langs_count=7&theme=dark"/>
 
 ## Outras Habilidades
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
           
 <!-- Adicione mais imagens para outras tecnologias que você utiliza -->
 
