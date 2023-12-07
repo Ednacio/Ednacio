@@ -3,16 +3,6 @@
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando com a linguagem Dart utilizando o incrível framework Flutter!
 - 🌱 Estou focado em aprender e implementar a arquitetura limpa (clean architecture) e modularização.
-- ⚡ Curiosidade: Nas horas vagas, adoro experimentar novas receitas de fritas e bacon!
-
-## Tecnologias e Ferramentas
-- Flutter
-- Dart
-- Firebase
-- AWS
-- Google Cloud Platform
-- Docker
-- Git
 
 
 ## Contato
