@@ -16,7 +16,7 @@
 
 
 ## Contato
-- 📫 Como me encontrar: [LinkedIn](seu-linkedin) | [Email](mailto:seu-email) | [Telefone](tel:+5511954390011)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/ednaciosouza-26in/) | [Email](mailto:ednacio.ssouza@gmail.com) | +5511954390011
 
 ## Estatísticas do GitHub
 <div>
