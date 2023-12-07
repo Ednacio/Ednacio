@@ -1,4 +1,4 @@
-# Olá! 👋 Meu nome é [Seu Nome]
+# Olá! 👋 Meu nome é Ednacio.
 
 ## Sobre mim
 - 🔭 Atualmente estou trabalhando com a linguagem Dart utilizando o incrível framework Flutter!
@@ -14,8 +14,6 @@
 - Docker
 - Git
 
-## Projetos
-- [Nome do Projeto](link para o projeto): Breve descrição do projeto e tecnologias utilizadas.
 
 ## Contato
 - 📫 Como me encontrar: [LinkedIn](seu-linkedin) | [Email](mailto:seu-email) | [Telefone](tel:+5511954390011)
@@ -25,9 +23,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=dark"/>
 
 ## Outras Habilidades
-<img align="center" alt="Firebase" height="50" width="50" src="link-da-imagem-do-firebase">
-<img align="center" alt="AWS" height="50" width="50" src="link-da-imagem-da-AWS">
-<img align="center" alt="Google Cloud Platform" height="50" width="50" src="link-da-imagem-do-Google-Cloud">
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Ed-Fl" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+          
 <!-- Adicione mais imagens para outras tecnologias que você utiliza -->
 
 
